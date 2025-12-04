@@ -7,7 +7,7 @@ title: "Program_01 — JSON Loader Assignment"
 course: "Operating Systems / Game of Life Series"
 language: "C++17"
 library: ["nlohmann::json"]
-author: "T. Griffin"
+author: "T. Griffin, N. Bustard"
 summary: >
   A starter program to load and display Game of Life shape data from a JSON file.
   This introduces structured data parsing, iteration, and simple console output.
