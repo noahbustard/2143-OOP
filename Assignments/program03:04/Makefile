@@ -2,7 +2,7 @@ CXX := g++
 CXXFLAGS := -Wall -std=c++17 $(shell pkg-config --cflags sdl2)
 LDFLAGS := $(shell pkg-config --libs sdl2)
 
-TARGET := program02
+TARGET := program04
 SRC := main.cpp
 
 all: $(TARGET)
